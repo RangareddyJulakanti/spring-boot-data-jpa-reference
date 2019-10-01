@@ -20,7 +20,7 @@ import java.util.List;
  *
  *  All apis here are common to all
  *
- * Created by jabbars on 2/26/2017.
+ * Created by RANGA on 2/26/2017.
  */
 public abstract class BaseRideResource<M extends User, ID extends Serializable> {
 

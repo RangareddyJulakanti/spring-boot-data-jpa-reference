@@ -15,7 +15,7 @@ import java.time.ZonedDateTime;
  * This Resource Handles Requests from Captain and Owner.
  * All apis will give Basic info of the CAB
  * <p>
- * Created by jabbars on 2/26/2017.
+ * Created by RANGA on 2/26/2017.
  */
 public class CabResource<C extends Cab, ID extends Serializable> extends BaseRideResource<C, ID> {
 

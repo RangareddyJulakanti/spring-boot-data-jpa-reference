@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.UUID;
 
 /**
- * Created by jabbars on 2/26/2017.
+ * Created by RANGA on 2/26/2017.
  */
 @RestController("RiderCrudResource")
 @RequestMapping(value = "v1/api/rider")

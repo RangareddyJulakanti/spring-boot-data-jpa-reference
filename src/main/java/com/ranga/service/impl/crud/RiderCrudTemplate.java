@@ -12,7 +12,7 @@ import javax.inject.Named;
 import java.util.UUID;
 
 /**
- * Created by jabbars on 2/26/2017.
+ * Created by RANGA on 2/26/2017.
  */
 @Named("RiderCrudTemplate")
 public class RiderCrudTemplate extends BaseCrudTemplate<Rider, ERider, UUID> implements RiderCrudOperations {

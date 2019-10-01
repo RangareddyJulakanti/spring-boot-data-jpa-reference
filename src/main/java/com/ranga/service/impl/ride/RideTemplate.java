@@ -13,7 +13,7 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * Created by jabbars on 2/25/2017.
+ * Created by RANGA on 1/10/2019.
  */
 public abstract class RideTemplate<R extends User, E extends EUser, ID extends Serializable>
         implements RideOperations<R, ID> {

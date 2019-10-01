@@ -4,7 +4,7 @@ import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import com.fasterxml.jackson.databind.annotation.JsonPOJOBuilder;
 
 /**
- * Created by jabbars on 2/26/2017.
+ * Created by RANGA on 2/26/2017.
  */
 @JsonDeserialize(builder = Contact.Builder.class)
 public class Contact {

@@ -14,7 +14,7 @@ import java.util.UUID;
  * This Resource Handles the Requests from a Rider,
  * Which are specifically meant for Him
  * <p>
- * Created by jabbars on 2/26/2017.
+ * Created by RANGA on 2/26/2017.
  */
 @RestController("RiderRideViewResource")
 @RequestMapping(value = "v1/api/rider/ride")

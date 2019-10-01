@@ -3,7 +3,7 @@ package com.ranga.model;
 import com.fasterxml.jackson.databind.annotation.JsonPOJOBuilder;
 
 /**
- * Created by jabbars on 2/25/2017.
+ * Created by RANGA on 1/10/2019.
  */
 public abstract class User {
 

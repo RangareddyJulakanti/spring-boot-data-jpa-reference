@@ -4,7 +4,7 @@ import javax.persistence.Column;
 import javax.persistence.MappedSuperclass;
 
 /**
- * Created by jabbars on 2/25/2017.
+ * Created by ANGA on 1/10/2019.
  */
 @MappedSuperclass
 public abstract class ECab extends EUser {

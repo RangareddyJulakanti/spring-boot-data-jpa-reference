@@ -6,7 +6,7 @@ import com.ranga.model.Contact;
 import java.util.function.Function;
 
 /**
- * Created by jabbars on 2/26/2017.
+ * Created by RANGA on 2/26/2017.
  */
 public class ContactMapper {
 

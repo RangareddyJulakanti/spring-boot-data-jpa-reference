@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.util.Locale;
 
 /**
- * @author jabbars
+ * @author RANGA
  */
 public class CareemLocaleResolver implements LocaleResolver {
     @Override

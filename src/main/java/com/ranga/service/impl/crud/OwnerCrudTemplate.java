@@ -12,7 +12,7 @@ import javax.inject.Named;
 import java.util.UUID;
 
 /**
- * Created by jabbars on 2/26/2017.
+ * Created by RANGA on 2/26/2017.
  */
 @Named("OwnerCrudTemplate")
 public class OwnerCrudTemplate extends BaseCrudTemplate<Owner, EOwner, UUID> implements OwnerCrudOperation {

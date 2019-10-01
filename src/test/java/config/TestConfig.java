@@ -5,7 +5,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * Created by jabbars on 1/24/2017.
+ * Created by RANGA on 1/24/2017.
  */
 @ComponentScan(basePackages = {"com.ranga.domain"})
 @Configuration

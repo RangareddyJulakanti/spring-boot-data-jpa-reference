@@ -15,7 +15,7 @@ import javax.inject.Named;
  * This Resource is Used to Communicate with Other Services
  * EX. Google Maps, Location
  * <p>
- * Created by jabbars on 2/21/2017.
+ * Created by RANGA on 2/21/2017.
  */
 @RestController("IntegrationResource")
 @RequestMapping(value = "v1/api/integration")
